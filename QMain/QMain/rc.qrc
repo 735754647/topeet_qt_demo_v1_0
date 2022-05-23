@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+	<file>icon/1.png</file>
+	<file>icon/2.png</file>
+        <file>icon/3.png</file>
+        <file>icon/4.png</file>
+        <file>icon/5.png</file>
+        <file>icon/6.png</file>
+        <file>icon/7.png</file>
+        <file>icon/8.png</file>
+        <file>icon/9.png</file>
+        <file>icon/10.png</file>
+        <file>icon/11.png</file>
+        <file>icon/12.png</file>
+        <file>icon/13.png</file>
+        <file>icon/14.png</file>
+        <file>icon/15.png</file>
+        <file>image/main8.jpg</file>
+	<file>weatherIcon/1.png</file>
+	<file>weatherIcon/2.png</file>
+        <file>weatherIcon/3.png</file>
+        <file>weatherIcon/4.png</file>
+        <file>weatherIcon/5.png</file>
+        <file>weatherIcon/6.png</file>
+        <file>weatherIcon/7.png</file>
+        <file>weatherIcon/8.png</file>
+        <file>weatherIcon/9.png</file>
+        <file>weatherIcon/10.png</file>
+        <file>weatherIcon/11.png</file>
+        <file>weatherIcon/12.png</file>
+        <file>weatherIcon/13.png</file>
+        <file>weatherIcon/14.png</file>
+        <file>weatherIcon/15.png</file>
+        <file>weatherIcon/16.png</file>
+        <file>weatherIcon/17.png</file>
+        <file>weatherIcon/18.png</file>
+        <file>weatherIcon/19.png</file>
+        <file>weatherIcon/20.png</file>
+	<file>weatherIcon/21.png</file>
+    </qresource>
+</RCC>
